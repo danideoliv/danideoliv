@@ -9,7 +9,9 @@
 
 <hr>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=danideoliv&show_icons=true&theme=dracula" alt="Daniel's GitHub stats">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=danideoliv&show_icons=true&theme=dracula" alt="Daniel's GitHub stats">
+</div>
 
 <h2>📚 Sobre minha vida acadêmica</h2>
 <p>Atualmente estou cursando um curso Integrado em Manutenção e Suporte em Informática no Instituto Federal de Educação, Ciência e Tecnologia de Sergipe - Campus Itabaiana.</p>
@@ -24,6 +26,7 @@
   <a href="https://www.facebook.com/profile.php?id=100056253392970" target="_blank"><img hspace="5" width=32 src="https://img.icons8.com/fluency/344/facebook-new.png" alt="Icon Facebook"></a>
 </div>
 
-<img height="170em" src="https://github.com/danideoliv/danideoliv/blob/main/data:image/github-user-contribution.svg" alt="Game da Cobrinha">
-
+<div align="center">
+  <img src="https://github.com/danideoliv/danideoliv/blob/main/data:image/github-user-contribution.svg" alt="Game da Cobrinha">
+</div>
 
