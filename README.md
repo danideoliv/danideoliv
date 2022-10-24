@@ -1,3 +1,5 @@
+<!-- Basicamente, este é o meu perfil feito em HTML -->
+
 <h1>Opa! Meu nome é Daniel! 🖖🏾</h1>
 
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/223e6792880429.5e569ff84ebef.gif" alt="ROG Wallpaper Design - Pixel Jeff">
@@ -17,5 +19,9 @@
   <a href="mailto:dangue612345@gmail.com" target="_blank"><img width=32 src="https://img.icons8.com/fluency/344/gmail.png" alt="Icon Gmail"></a>
   <a href="https://www.facebook.com/profile.php?id=100056253392970" target="_blank"><img hspace="5" width=32 src="https://img.icons8.com/fluency/344/facebook-new.png" alt="Icon Facebook"></a>
 </div>
+
+<hr>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danideoliv&show_icons=true&theme=dracula)
 
 
