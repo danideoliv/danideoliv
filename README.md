@@ -9,7 +9,7 @@
 
 <hr>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=danideoliv&show_icons=true&theme=dracula" alt="Daniel's GitHub stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=danideoliv&show_icons=true&theme=dracula" alt="Daniel's GitHub stats">
 
 <h2>📚 Sobre minha vida acadêmica</h2>
 <p>Atualmente estou cursando um curso Integrado em Manutenção e Suporte em Informática no Instituto Federal de Educação, Ciência e Tecnologia de Sergipe - Campus Itabaiana.</p>
