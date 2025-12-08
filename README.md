@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Daniel Guerra (danideoliv)
 
-Welcome to my GitHub profile! I'm a Information Systems student at UFS (Itabaiana-SE) and an IT technician with an interest in software development. I’m motivated by coding — I enjoy learning new languages and tackling programming challenges.
+Welcome to my GitHub profile! I'm an Information Systems student at UFS (Itabaiana-SE) and an IT technician with an interest in software development. I’m motivated by coding — I enjoy learning new languages and tackling programming challenges.
 
 ## 💡 Skills & Technologies
 
